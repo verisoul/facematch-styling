@@ -1,3 +1,7 @@
+## proof-of-human-styling
+
+Use this app to configure and test Proof of Human UI customizations. Once you have the UI looking the way you want, provide the `config.json` file to Verisoul. 
+
 ### Install
 ```bash
 npm install
