@@ -1,0 +1,53 @@
+{
+    "face": {
+        "theme": {
+            "primaryColor": "#FFFFFF",
+            "secondaryColor": "#1b88ff",
+            "backgroundColor": "#030a74",
+            "font": "'Source Sans Pro', Helvetica, sans-serif",
+            "guidance_button_background_color": "#1b88ff",
+            "guidance_button_disabled_color": "#627e9c",
+            "guidance_button_border_color": "transparent",
+            "ready_screen_oval_fill_color": "transparent",
+            "result_screen_show_upload_progress_bar": true,
+            "result_screen_upload_progress_track_color": "rgba(0, 0, 0, 0.2)",
+            "feedback_background_color": "#1b88ff",
+            "feedback_shadow": "0px 3px 10px #1b88ff",
+            "oval_progress_color_1": "rgba(27, 136, 255,0.7)",
+            "oval_progress_color_2": "rgba(27, 136, 255,0.7)",
+            "ready_screen_subtext_color": "#FFFFFF",
+            "retry_screen_subtext_color": "#FFFFFF"
+        },
+        "dynamic_dimming": {
+            "primaryColor": "rgb(238, 246, 248)",
+            "secondaryColor":  "rgb(0,100,255)",
+            "backgroundColor": "black",
+            "guidance_button_background_color": "white",
+            "guidance_button_disabled_color": "rgba(238, 246, 248, 0.3)",
+            "guidance_button_border_color": "transparent",
+            "ready_screen_oval_fill_color": "transparent",
+            "result_screen_show_upload_progress_bar": true,
+            "result_screen_upload_progress_track_color": "rgba(238, 246, 248, 0.2)",
+            "feedback_background_color": "black",
+            "feedback_shadow": "0px 3px 10px black",
+            "oval_progress_color_1": "rgb(0,100,255)",
+            "oval_progress_color_2": "rgb(0,100,255)"
+        }
+    },
+    "error_views": {
+        "text": {
+            "color": "#FF0000"
+        },
+        "body": {
+            "backgroundColor": "#030a74"
+        },
+        "button": {
+            "textColor": "#FFFFFF",
+            "disabledColor": "#627e9c",
+            "activeColor": "#1b88ff",
+            "hoverColor": "#0f7df5",
+            "defaultColor": "#1b88ff",
+            "borderRadius": "10px"
+        }
+    }
+}
