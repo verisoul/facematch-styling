@@ -1,6 +1,6 @@
-## proof-of-human-styling
+## facematch-styling
 
-Use this app to configure and test Proof of Human UI customizations. Once you have the UI looking the way you want, provide the `config.json` file to Verisoul. 
+Use this app to configure and test FaceMatch UI customizations. Once you have the UI looking the way you want, provide the `config.json` file to Verisoul. 
 
 ### Install
 ```bash
@@ -12,7 +12,7 @@ npm install
 npm start
 ```
 
-### Generate Session_id
+### Generate session_id
 Use your api key to manually generate a session_id in the sandbox environment using the `/liveness/session` endpoint. 
 
 
